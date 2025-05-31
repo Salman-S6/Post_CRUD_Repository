@@ -15,3 +15,4 @@ The Repository Pattern is basically a way to organize your code. It helps you se
 Simply put, this pattern helps you write code that's more organized, easier to maintain, and much better for testing.
 
 ## PostMan Collection:
+https://api.postman.com/collections/43190892-1036e59d-29d0-4bb2-b63c-9ea15d04f67f?access_key=PMAT-01JTGJ2XX8JZXQP43DP23WSMHY
